@@ -25,4 +25,4 @@ if choice == "yes" or choice == "yea" or choice == "yws" or choice == "ya" or ch
     print("")
     print(password_high)
 else:
-    print("cancelled.")
+    print("Cancelled.")
