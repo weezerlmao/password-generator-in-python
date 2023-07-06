@@ -1,4 +1,3 @@
-
 import random
 
 x = "QWERTYUIOPASDFGHJKLZXCVBNM"
@@ -6,7 +5,7 @@ y = "qwertyuiopasdfghjklzxcvbnm"
 z = "123456789@£_&$§∆✓%?!"
 
 password_letters = x + y + z + x + z + y
-words_yes = ["yes", "ya", "yup", "yip", "y", "yah", "yws", "ye", "yas", "yass", "yee", "yeo", "yah", "sure", "ok", "okay", "sur", "surw"]
+words_yes = ["yes", "ya", "yup", "yip", "y", "yah", "yws", "ye", "yas", "yass", "yee", "yeo", "yah", "sure", "ok", "okay", "sur", "surw", "ys", "yq", "yeee", "yesss", "yessss", "yeeeeeee", "yuppp"]
 
 choice = input("Need a pass?: ")
 
