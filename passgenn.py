@@ -22,7 +22,7 @@ hl_colour = random.choice(hl_col)
 def gen_pass():
      global choice
      if choice in words_yes:
-         password = "".join(random.choices(password_letters, k  = random.randint(9, 19)))
+         password = "".join(random.choices(password_letters, k  = random.randint(9, 15)))
          global hl_colour
          password_high = hl_colour + password + hll
          print(f"{password_high} is the generated password, keep it safe buddy")
