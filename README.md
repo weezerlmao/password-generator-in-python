@@ -1,3 +1,3 @@
-so uh im a beginner and i made a password generator :3
+a Python beginner made a pretty safe password generator, feel free to ctrl+c or view it to learn although its not recommended ;)
 
-im sorry if the code looks horrific or unwatchable 💯💯🔥🔥
+#weezer #single #fyp
